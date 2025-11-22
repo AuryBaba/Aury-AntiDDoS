@@ -1,4 +1,4 @@
-# 🛡️ Aury WebShield — Anti‑DDoS Firewall & Reverse Proxy  
+# 🛡️ AurySoftWare© AntiDDoS WebShield — Anti‑DDoS Firewall & Reverse Proxy  
 ![Logo](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
