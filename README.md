@@ -5,6 +5,7 @@
 
 Aury WebShield is an **Anti‑DDoS firewall** written in **Python** using **PyQt5** for the GUI.  
 It works as a **reverse proxy** for real websites and filters incoming traffic through various security layers:
+<img width="498" height="430" alt="image" src="https://github.com/user-attachments/assets/e61d1560-4c9a-439e-ba55-f44978fc835d" />
 
 ✔ **Rate Limit (requests per second)**  
 ✔ **IP Ban**  
