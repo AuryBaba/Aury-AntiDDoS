@@ -39,24 +39,44 @@ The project is designed with a **user-friendly GUI**, making it suitable for use
 ---
 
 
+Aury Anti‑DDoS, web sitelerini savunma amacıyla geliştirilmiş bir güvenlik aracıdır ve yalnızca trafik filtresi yapmak, güvenlik duvarı işlevi görmek ve DDoS koruması sağlamak için kullanılmalıdır. Yazılım başka sistemlere izinsiz müdahalede bulunmak, saldırı başlatmak, trafik gönderme veya herhangi bir sisteme zarar verme amacıyla kullanılamaz.
 
-## ⚠️ Sorumluluk Reddi
+Bu yazılım yalnızca:
 
-Bu yazılım yalnızca **eğitim ve araştırma amaçlı** sağlanmaktadır. Projeyi **kendi sistemlerinizde** kullanmanız önerilir ve **başkasına ait sistemlere izinsiz olarak** müdahale etmeniz **yasaldır**. Yazılım, **DDoS saldırıları** veya **güvenlik ihlalleri** için kullanılmamalıdır. Herhangi bir şekilde **zarar verme**, **izinsiz erişim sağlama** veya **yasal olmayan** işlemler için kullanılması kesinlikle yasaktır.
+Kendi sahip olduğunuz web sitelerinde,
 
-Bu yazılımı kullanarak, yazılımın **kendi sorumluluğunuzda** olduğunu kabul etmektesiniz. Yazılımın kötüye kullanılması, güvenlik ihlali veya herhangi bir zarar durumunda **yazılım geliştiricisi** veya **yayıncı** hiçbir sorumluluk kabul etmemektedir.
+İzin aldığınız sistemlerde,
 
-Yazılım, kullanıcının **kendi riski** ile sağlanmakta olup, **geliştirici** veya **yazılımın sahibi**, yazılımın kullanımından kaynaklanabilecek herhangi bir **doğrudan ya da dolaylı zarar** veya **hukuki sonuçlardan** sorumlu değildir.
+Test, geliştirme ve eğitim amaçlı ortamlar gibi izinli alanlarda kullanılmalıdır.
 
-Yazılımı kullanmadan önce, yerel **yasal düzenlemelere** ve **etik kurallara** uygunluk sağladığınızdan emin olun.
+Bu yazılımı kullanarak, kullanıcı:
 
-### **Sorumluluk Reddi:**
-- Yazılım yalnızca **kendi siteniz** için kullanılabilir.
-- **Başkasına ait sistemler** üzerinde **izin almadan** kullanılmamalıdır.
-- Yazılımın kullanımı sonucunda meydana gelebilecek herhangi bir zarar veya hukuki işlemde **geliştirici sorumlu tutulamaz**.
+Yazılımın yalnızca savunma amaçlı olduğunu,
 
-Bu yazılımı **kendi web sitenizde**, **test ortamlarında** veya **eğitim amaçlı** kullanmanız önerilir.
+Kendi sorumluluğunda kullanılması gerektiğini kabul eder.
 
----
+Geliştirici ve yayıncı, yazılımın kötüye kullanımından, izinsiz sistemlerde kullanılmasından veya herhangi bir şekilde yasal olmayan bir işlem yapılmasından dolayı sorumlu tutulamaz. Ayrıca, yazılımın yanlış yapılandırılması veya hatalı kullanımından kaynaklanabilecek herhangi bir zarar ve hukuki sorumluluktan tamamen bağımsızdır.
 
-Lütfen bu yazılımı **sorumlulukla** kullanın ve **yasal sorumluluklarınızı** göz önünde bulundurun.
+Uyarı: Yazılım, yerel yasal düzenlemelere ve etik kurallara uygun şekilde kullanılmalıdır. Yazılımı kullanan kişi, sorumluluklarının farkında olmalı ve yasal izinlere sahip olmalıdır.
+
+🇺🇸 English Disclaimer:
+
+Aury Anti‑DDoS is a defensive security tool designed to protect websites by filtering traffic, acting as a firewall, and providing DDoS protection. The software must not be used to interfere with, attack, flood, or disrupt any system.
+
+This software is intended solely for use on:
+
+Your own websites,
+
+Systems where you have explicit permission,
+
+Test, development, and educational environments that are authorized for use.
+
+By using this software, the user acknowledges that:
+
+The software is intended for defensive purposes only.
+
+The user assumes full responsibility for its usage.
+
+The developer and publisher assume no liability for any misuse, unauthorized use, or any illegal activities performed using this software. Additionally, they are not responsible for any damages or legal consequences resulting from improper configuration or incorrect usage of the software.
+
+Warning: This software should only be used in compliance with local laws, ethical guidelines, and with proper permissions. The user must ensure they have the necessary legal authorizations to use the software.
