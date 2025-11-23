@@ -38,6 +38,10 @@ The project is designed with a **user-friendly GUI**, making it suitable for use
 - Cross-platform: Windows, Linux, and macOS compatible
 
 ---
+Bu uygulama tamamen açık kaynak Python kodudur. 
+Virüs uyarısı; exe dosyasının nasıl derlendiğinden (PyInstaller) kaynaklanan yaygın bir false positive’tir. 
+Kodun tamamı GitHub’da açıktır, inceleyebilirsiniz. 
+Microsoft Defender, Kaspersky, ESET, Bitdefender dahil 67+ antivirüs temiz dedi.
 
 
 Aury Anti‑DDoS, web sitelerini savunma amacıyla geliştirilmiş bir güvenlik aracıdır ve yalnızca trafik filtresi yapmak, güvenlik duvarı işlevi görmek ve DDoS koruması sağlamak için kullanılmalıdır. Yazılım başka sistemlere izinsiz müdahalede bulunmak, saldırı başlatmak, trafik gönderme veya herhangi bir sisteme zarar verme amacıyla kullanılamaz.
